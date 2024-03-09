@@ -1,7 +1,5 @@
 .About_container {
-  /* height: 100vh; */
-  width: 100%;
-  /* border: 2px solid red; */
+ width: 100%;
   background-image: linear-gradient(
       rgba(114, 114, 165, 0.192),
       rgba(11, 19, 20, 0.7)
