@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Clone_CodeSandBox/static/css/main.1ec52e84.css",
+    "main.js": "/Clone_CodeSandBox/static/js/main.8af22d84.js",
+    "static/js/787.1fee1fb8.chunk.js": "/Clone_CodeSandBox/static/js/787.1fee1fb8.chunk.js",
+    "static/media/logo.svg": "/Clone_CodeSandBox/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Clone_CodeSandBox/index.html",
+    "main.1ec52e84.css.map": "/Clone_CodeSandBox/static/css/main.1ec52e84.css.map",
+    "main.8af22d84.js.map": "/Clone_CodeSandBox/static/js/main.8af22d84.js.map",
+    "787.1fee1fb8.chunk.js.map": "/Clone_CodeSandBox/static/js/787.1fee1fb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ec52e84.css",
+    "static/js/main.8af22d84.js"
+  ]
+}
